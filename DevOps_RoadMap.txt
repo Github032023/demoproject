@@ -1,0 +1,7 @@
+Linux
+AWS
+DevOps(Git,Jenkins, Ansible)
+Azure
+Docker
+K8S
+
