@@ -1,9 +1,0 @@
-Jira(story/sub story creation, creat epic, task, bug, issue)
-Git(all commands)
-BitBucket(create branches, releases, merges(release -> master))
-Linux(all commands)
-AWS(all required services)
-Jenkis(all required work)
-Docker
-K8S
-
